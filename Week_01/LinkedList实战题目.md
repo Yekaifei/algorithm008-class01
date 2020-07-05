@@ -34,6 +34,9 @@ class Solution {
 
 - [x] 4.22
 - [x] 4.23
+- [x] 5.24
+- [x] 5.25
+- [x] 6.3
 
 #### [24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 
@@ -49,6 +52,10 @@ class Solution {
     }
 }
 ```
+
+- [x] 5.24
+- [x] 5.25
+- [x] 6.3
 
 #### [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
 
@@ -68,6 +75,10 @@ public class Solution {
     }
 }
 ```
+
+- [x] 5.24
+- [x] 5.25
+- [x] 6.3
 
 #### [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 
@@ -91,6 +102,10 @@ public class Solution {
     }
 }
 ```
+
+- [x] 5.24
+- [x] 5.25
+- [x] 6.3
 
 #### [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)
 
@@ -119,3 +134,6 @@ class Solution {
 }
 ```
 
+- [x] 5.24
+- [x] 5.25
+- [x] 6.3
